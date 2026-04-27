@@ -142,17 +142,17 @@ The Power BI dashboard is divided into 8 pages:
 
 # Slicers
 
-Country 
-Year
+* Country 
+* Year
 
 # Visualizations
 
-Attack vs Casualities by region 
-High risk regions based on Casualities
-Attack success rate
-Key Influencers
-Region wise distribution of attacks 
-Top Deadliest Attack types
+* Attack vs Casualities by region 
+* High risk regions based on Casualities
+* Attack success rate
+* Key Influencers
+* Region wise distribution of attacks 
+* Top Deadliest Attack types
 
 
 
