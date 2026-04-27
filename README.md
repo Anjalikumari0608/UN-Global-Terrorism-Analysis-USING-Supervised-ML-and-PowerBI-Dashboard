@@ -104,3 +104,11 @@ Reason:
 * Reduces variance and overfitting
 * Performs well on real-world noisy data
 
+# 📊 Power BI Dashboard
+
+<img width="310" height="162" alt="WhatsApp Image 2026-04-27 at 12 31 46" src="https://github.com/user-attachments/assets/9e9fc00f-9a97-4916-9d0a-36cfb77d103d" />
+
+# Power BI Dashboard zip Link
+https://drive.google.com/file/d/1bjLezDpg3Hc_5gyam4aKD-uTg6UwxGbt/view?usp=sharing
+
+
