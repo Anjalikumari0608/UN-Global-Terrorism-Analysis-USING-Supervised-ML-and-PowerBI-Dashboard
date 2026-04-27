@@ -58,3 +58,8 @@ Severity of Casualties (Created Feature)
 * 🎯 Successful attacks tend to result in higher casualties
 * 🔐 Areas with lower security preparedness show higher severity levels
 
+# 🤖 Machine Learning Approach
+The problem is treated as a multi-class classification task.
+
+# Model 1: Logistic Regression
+
