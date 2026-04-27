@@ -62,29 +62,29 @@ Severity of Casualties (Created Feature)
 The problem is treated as a multi-class classification task.
 
 # 1️⃣ Logistic Regression
-Simple and interpretable
-Works well for linear relationships
-Acts as a baseline model
+* Simple and interpretable
+* Works well for linear relationships
+* Acts as a baseline model
 
 **Limitation:**
 
-Struggles with complex, non-linear patterns
+* Struggles with complex, non-linear patterns
 
 # 2️⃣ Decision Tree
-Rule-based model
-Easy to visualize and interpret
-Captures non-linear relationships
+* Rule-based model
+* Easy to visualize and interpret
+* Captures non-linear relationships
 
 **Limitation:**
 
-Prone to overfitting
+* Prone to overfitting
 
 # 3️⃣ Random Forest
-Ensemble of multiple decision trees
-Reduces overfitting
-Handles large datasets efficiently
+* Ensemble of multiple decision trees
+* Reduces overfitting
+* Handles large datasets efficiently
 
 **Strength:**
 
-High accuracy and robustness
+* High accuracy and robustness
 
