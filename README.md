@@ -156,6 +156,7 @@ The Power BI dashboard is divided into 8 pages:
 
 # 📍 Page 3
 <img width="1312" height="732" alt="OBJ4" src="https://github.com/user-attachments/assets/80b3e96b-2f53-4c81-9315-2db386fa2f13" />
+
 # Visualizations
 
 * Attack Severity analysis
