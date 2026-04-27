@@ -170,6 +170,33 @@ The Power BI dashboard is divided into 8 pages:
 
 **Rest of the pages are combined in the PowerBI Dashboard link pasted above.**
 
+# 🛠️ Technologies Used
+* 🐍 Python
+* 📊 Pandas, NumPy (data processing)
+* 📈 Matplotlib, Seaborn (visualization)
+* 🤖 Scikit-learn (ML models)
+* 📉 Power BI (dashboard & reporting)
+* 📓 Google Colab
+
+# 🚀 Key Achievement
+* Successfully built a multi-class classification model
+* Compared multiple ML algorithms
+* Identified Random Forest as best-performing model
+* Developed an interactive Power BI dashboard
+* Extracted meaningful insights for security analysis
+
+# 📌 Conclusion
+This project demonstrates that machine learning can effectively predict the severity of terrorist attacks based on historical data.
+
+* Random Forest proved to be the most reliable model
+* Data visualization helped uncover hidden patterns
+* Insights can support:
+* Strategic security planning
+* Risk mitigation
+* Policy-making
+
+**Overall, the integration of machine learning + data visualization provides a powerful tool for terrorism risk analysis and decision-making.**
+
 
 
 
