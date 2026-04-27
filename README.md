@@ -115,6 +115,7 @@ The Power BI dashboard is divided into 8 pages:
 
 # 📍 Page 1 
 <img width="1327" height="738" alt="Main Das 1" src="https://github.com/user-attachments/assets/efd0e0f2-c8f4-4574-a03f-536903f30d68" />
+
 # Cards
 
 * Total attacks 
@@ -138,6 +139,21 @@ The Power BI dashboard is divided into 8 pages:
 
 # 📍 Page 2
 <img width="1327" height="742" alt="Dash 2" src="https://github.com/user-attachments/assets/f58da34b-e412-4eb8-81f4-cc7f2cafa618" />
+
+# Slicers
+
+Country 
+Year
+
+# Visualizations
+
+Attack vs Casualities by region 
+High risk regions based on Casualities
+Attack success rate
+Key Influencers
+Region wise distribution of attacks 
+Top Deadliest Attack types
+
 
 
 
