@@ -14,3 +14,37 @@ The workflow includes:
 * Dashboard visualization using Power BI
 
 **PowerBI Dashboard Zip link pasted below.**
+
+# Machine Learning Workflow and PowerBI Overview
+
+<img width="1024" height="1536" alt="WhatsApp Image 2026-04-27 at 11 21 21" src="https://github.com/user-attachments/assets/7ab1046b-a938-4ede-9217-1881288a6057" />
+
+# 🎯 Business Objective
+The Business objective of this project is:
+
+*To predict the severity of casualties in terrorist attacks using supervised machine learning techniques.*
+
+Supporting Goals:
+* Identify high-risk regions
+* Analyze weapon types contributing to higher casualties
+* Understand attack success patterns
+* Provide data-driven insights for decision-makers
+
+# 📊 Dataset Requirements
+📌 Key Features:
+* Attack Type
+* Weapon Type
+* Region / Country
+* Year of Attack
+* Number of Kills
+* Number of Wounded
+* Success / Failure
+* Target Type
+🎯 Target Variable:
+
+Severity of Casualties (Created Feature)
+
+* Low → Small number of casualties
+* Medium → Moderate casualties
+* High → Large casualties
+
