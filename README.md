@@ -1,4 +1,4 @@
-# UN-Global-Terrorism-Analysis-USING-Supervised-ML-and-PowerBI-Dashboard
+# UN Global Terrorism Analysis USING Supervised ML and PowerBI Dashboard
 
 # 📌 Project Overview
 The Global Terrorism Analysis using Supervised Machine Learning project focuses on analyzing historical terrorism data to uncover patterns and predict the severity of casualties (Low, Medium, High).
@@ -173,7 +173,7 @@ The Power BI dashboard is divided into 8 pages:
 
 # 🛠️ Technologies Used
 * 🐍 Python
-* 📊 Pandas, NumPy (data processing)
+* 📊 Pandas (data processing)
 * 📈 Matplotlib, Seaborn (visualization)
 * 🤖 Scikit-learn (ML models)
 * 📉 Power BI (dashboard & reporting)
