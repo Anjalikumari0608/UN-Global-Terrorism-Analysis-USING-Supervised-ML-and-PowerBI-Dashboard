@@ -40,6 +40,7 @@ Supporting Goals:
 * Number of Wounded
 * Success / Failure
 * Target Type
+
 🎯 Target Variable:
 
 Severity of Casualties (Created Feature)
