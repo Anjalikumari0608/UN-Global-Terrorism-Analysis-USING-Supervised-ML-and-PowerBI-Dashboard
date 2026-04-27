@@ -88,3 +88,19 @@ The problem is treated as a multi-class classification task.
 
 * High accuracy and robustness
 
+# 📂 Model Comparison
+| Model               | Accuracy | Strength                 | Weakness                  |
+| ------------------- | -------- | ------------------------ | ------------------------- |
+| Logistic Regression | Medium   | Simple, fast             | Cannot capture complexity |
+| Decision Tree       | Medium   | Interpretable            | Overfitting risk          |
+| Random Forest       | High     | Best performance, stable | Slightly complex          |
+
+# 🏆 Best Model Selection
+**Selected Model: Random Forest**
+
+Reason:
+* Highest accuracy and F1-score
+* Handles complex relationships
+* Reduces variance and overfitting
+* Performs well on real-world noisy data
+
