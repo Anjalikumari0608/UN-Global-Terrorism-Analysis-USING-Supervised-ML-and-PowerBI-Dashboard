@@ -49,3 +49,12 @@ Severity of Casualties (Created Feature)
 * Medium → Moderate casualties
 * High → Large casualties
 
+# 🔍 Exploratory Data Analysis (EDA)
+
+# Key Insights
+* 🌍 Certain regions (e.g., Middle East, South Asia) show consistently high attack frequency
+* 💣 Explosives and firearms are the most commonly used and most lethal weapons
+* 📈 Terrorist attacks increased significantly after the early 2000s
+* 🎯 Successful attacks tend to result in higher casualties
+* 🔐 Areas with lower security preparedness show higher severity levels
+
